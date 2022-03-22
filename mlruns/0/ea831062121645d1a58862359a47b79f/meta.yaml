@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Samrat/PycharmProjects/aws_mlflow_backup/mlruns/0/ea831062121645d1a58862359a47b79f/artifacts
+end_time: 1647528387430
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ea831062121645d1a58862359a47b79f
+run_uuid: ea831062121645d1a58862359a47b79f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1647528382297
+status: 3
+tags: []
+user_id: Samrat
